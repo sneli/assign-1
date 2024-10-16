@@ -1,0 +1,7 @@
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2202 (oop)\Assignments\Assignment 1\Assignment 1 Starter\Assignment1\obj\Debug\Assignment1.pdb
